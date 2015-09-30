@@ -1,0 +1,25 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 梨嶽詩集
+#+DATE: 2015-09-12 01:20:34.755169
+#+PROPERTY: ID KR4c0082
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB12n0759-002梨嶽詩集補遺-目録.
+<pb:KR4c0082_SBCK_002-1a>¶
+　棃嶽詩集補遺目錄¶
+　　　卽席送許◍之曹南省兄¶
+　　　送羅著作兩浙按獄¶
+　　　　右七律二首¶
+　　　答韓中丞容不飮酒¶
+　　　　右七絕一首¶
+　　　暮夜宿淸源上人院¶
+　　　秋夜宿重本上人院¶
+　　　贈立規上人¶
+　　　蘇州寒食日送人歸覲¶
+　　　　右五律四首¶
+　　　下第後屏居書懷寄張侍御¶
+<pb:KR4c0082_SBCK_002-1b>¶
+　　　　右五古一首¶
+　　　寄舊友西乾耕隱童先輩¶
+　　　　右五絕一首¶
